@@ -1,8 +1,0 @@
-{
-  "name": "example_cutscene",
-  "timeline": [
-    { "time": 0, "action": "fade_in", "duration": 1000 },
-    { "time": 1000, "action": "camera_move", "params": { "x": 0, "y": 0, "z": 10 } },
-    { "time": 2000, "action": "fade_out", "duration": 1000 }
-  ]
-}
